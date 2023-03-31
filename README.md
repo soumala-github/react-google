@@ -1,2 +1,2 @@
-# react-google
+# clase-hass
 Created with CodeSandbox
